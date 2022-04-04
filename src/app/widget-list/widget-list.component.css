@@ -1,0 +1,10 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+
+.grid > *{
+  width: 500px;
+  height: 300px;
+}
